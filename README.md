@@ -1,5 +1,9 @@
 # MaskPose
 
+### Paper
+Rom-Pose is pose estimation model based on simple baseline and ASBU
+Use restored mask image for increasing accuracy of human pose estimation
+
 Enviroment
 ---
 Python 3.9.7
@@ -8,6 +12,8 @@ NVIDIA GPU A5000 used
 
 ### Download backbone code from URL
 https://github.com/microsoft/human-pose-estimation.pytorch
+
+https://github.com/ducminhkhoi/Amodal-Instance-Seg-ASBU.git
 
 Installation 
 ---
