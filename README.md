@@ -45,10 +45,10 @@ Mask image dataset using by data/makedataset.py
 
 How to use
 ---
-Set all the models need.
-Make Whole COCO dataset which consist of answer mask dataset.
-Train the ASBU model.
-Train the HPE model with ASBU model's output.
-Combine together to test.
+Set all the models need.  
+Make Whole COCO dataset which consist of answer mask dataset.  
+Train the ASBU model.  
+Train the HPE model with ASBU model's output.  
+Combine together to test.  
 
 <!-- CUDA_VISIBLE_DEVICES=0,1,2,3 python pose_estimation/train.py --cfg experiments/coco/resnet152/256x192_d256x3_adam_lr1e-3.yaml -->
