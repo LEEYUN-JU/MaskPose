@@ -11,9 +11,8 @@ CUDA 11.1 relese
 NVIDIA GPU A5000 used
 
 ### Download backbone code from URL
-https://github.com/microsoft/human-pose-estimation.pytorch
-
-https://github.com/ducminhkhoi/Amodal-Instance-Seg-ASBU.git
+https://github.com/microsoft/human-pose-estimation.pytorch - for pose estimation model
+https://github.com/ducminhkhoi/Amodal-Instance-Seg-ASBU.git - for ASBU model
 
 Installation 
 ---
