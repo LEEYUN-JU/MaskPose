@@ -1,4 +1,5 @@
 # MaskPose
+DOI : 10.5281/zenodo.14233079
 
 ### Paper
 Rom-Pose is pose estimation model based on simple baseline and ASBU
